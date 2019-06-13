@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673ab7</color>
+    <color name="colorPrimaryVariant">#320b86</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorSecondary">#ff3d00</color>
+    <color name="colorSecondaryVariant">#c30000</color>
+    <color name="colorOnSecondary">#ffffff</color>
+
+    <color name="amber_500">#FFC107</color>
+
+    <color name="ic_launcher_background">@color/colorPrimary</color>
+</resources>

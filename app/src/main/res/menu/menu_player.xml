@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.MainActivity">
+
+    <item
+        android:id="@+id/action_review"
+        android:icon="@drawable/ic_star_border_24"
+        android:title="@string/action_review"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_request"
+        android:icon="@drawable/ic_playlist_add_24"
+        android:title="@string/action_request"
+        app:showAsAction="ifRoom" />
+
+</menu>
